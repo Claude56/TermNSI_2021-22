@@ -1,0 +1,43 @@
+Seconde;Eleve;
+nom;prenom;date_naissance;langue1;langue2;option;classe;;adresse;commune;pays;email;
+MOSART;Wolfgang Amadeus;1756-01-27;allemand;italien;musique;2A;9,Getreidegasse;Salzbourg;Bavière;amadeus.mozart@paradis.fr
+NEWTON;Isaac;1642-12-25;anglais;espagnol;cuisines;2D;Rue de la Pomme;Woolsthorpe;Angleterre;isaac.newton@paradis.fr
+COPERNIC;Nicolas;1473-02-19;polonais;francais;;2A;Rue de l'hélliocentrisme;Thorn;Prusse royale;nico.copernic@paradis.fr
+PREVERT;Jacques;1900-02-04;anglais;;;2C;Rue des Paroles;Neuilly-sur-Seine;France;jacko.prevert@paradis.fr
+BEJART;Maurice;1927-01-01;anglais;allemand;danse;2C;Rue du Ballet;Marseilles;France;momo.bejart@paradis.fr
+PREVERT;Jacques;2003-12-26;anglais;espagnol;homonyme;2A;Rue Barbara;Moulin Rouge;France;jojo.prevert@paradis.fr
+ASIMOV;Isaac;1920-01-02;russe;anglais;littérature;2B;Rue des Robots;New York;USA;asimov@paradis.fr
+DE VINCI;Léonard;1452-04-15;italien;francais;littérature;2A;Rue des Artistes;Anchiano;Italie;l.devinci@paradis.fr
+GALILEO;Galilei;1564-02-15;italien;anglais;scientifique;2C;Rue de l'Astronomie;Florence;Italie;galilee@paradis.fr 
+FARADAY;Michael;1791-09-22;anglais;;scientifique;2C;Rue de l'Electromagnétisme;Newington;Angleterre;f.michael@paradis.fr
+CURIE;Pierre;1859-05-15;francais;;scientifique;2A;Rue Nucléaire;Paris;France;curie.pierre@paradis.fr
+PASTEUR;Louis;1822-12-27;francais;;scientifique;2B;Rue du Vaccin;Marnes-la-Coquette;France;louis.p@paradis.fr
+DESCARTES;René;1596-03-31;francais;anglais;philosophie;2B;Rue cartésienne;La Hay-en-Touraine;France;rene.descartes@paradis.fr
+D'ARC;Jeanne;1412;français;anglais;guerre;2A;Rue d'Orléans;Domrémy;France;jeanne.darc@paradis.fr
+DE BRETAGNE;Alan;850;breton;français;roi;2C;Rue de Dreux;Nantes;Bretagne;alan.bretagne@paradis.fr
+DE BRETAGNE;Anne;1477-01-25;breton;français;diplomatie;2B;Rue du mariage;Blois;Bretagne;anne.bretagne@paradis.fr
+SCHRÖDINGER;Erwin;1887-08-12;allemand;anglais;physique;2C;Katzstrasse;Vienne;Autriche;schrodinger.chachat@paradis.fr
+PLATON;platon;-0427-1-1;grec;latin;philosophie;2A;Rue de la pensée;Athènes;Grèce;platon@paradis.fr
+CHRIST;Jésus;0000-12-24;hébreu;arabe;théologie;2A;Voie de Dieu;Bethléem;Cisjordanie;jc@paradis.fr
+DE BOURBON;Louis;1754-8-23;français;allemand;sciences politiques;2C;Rue Guillotin;Versailles;France;louis16@paradis.fr
+CESAR;Jules;-44-07-12;latin;italien;sciences politiques;2B;Rue de la Pax Romana;Rome;Italie;jc2@paradis.fr
+OBAMA;Barack;196-08-14;anglais;espagnol;droit;2B;Rue de la paix;Washington;USA;barack.obama@paradis.fr
+GANGSTA;Arouf;1995-01-04;arabe;chinois;musique;2D;Rue de la controverse; Sevran; France;lebgdu56@paradis.fr
+CLOONEY;George;1961-05-06;anglais;allemand;théâtre;2A;Rue du futur; Los Santos; USA;george.c@paradis.fr
+LIGNAC;Cyril;1977-11-05;français;italien;cuisine;2C;rue de la gastronomie;Marseille;France;lig.cyr@paradis.fr
+BRASSENS;Georges;1921-10-22;français;russe;guitare;2B;rue de la mélodie;Dijon;France;georges.brassens@paradis.fr
+SCHWARZER;Julien;1993-04-06;français;allemand;rap;2A;rue de la victoire;Marseille;France;sch@paradis.fr
+SEBASTIAN;Linus;1986-07-20;français;espagnol;informatique;2B;Linus Media Group;Vancouver;Canada;mail@lmg.com
+KJELLBERG;Felix;1989-09-24;français;anglais;média;2A;Rue des potiers;New York;USA;mail@pdp.com
+MULLER;Derek;1982-02-13;français;allemand;média;2C;Rue morret;Ottawa;Canada;mail@veritasium.com
+WANNER;Enzo;1987-04-25;anglais;espagnol;maths;2D;Rue mold;Nantes;France;warner.enzo@gmail.com
+DAFALY;Edward;1995-06-23;anglais;allemand;svt;2A;Rue muro;Lorence;France;dafaly.edward@gmail.com
+BEETHOVEN;Ludwig van;1770-12-16;allemand;anglais;musique;2A;Rue du clair de lune;Vienne;Autriche;erenyaeger@paradis.fr
+PICASSO;Pablo;1881-10-25;espagnol;français;peinture;2A;Rue du chevalet;Guernica;Espagne;pablopic@paradis.fr
+CURIE;Marie;1867-11-07;français;polonais;;2B;Rue du radium;Paris;France;nuke@paradis.fr
+MUSK;Elon;1971-06-28;anglais;français;;2A;Rue Nicolas Tesla;New York;USA;ElonTesla@paradis.fr
+LUMIERE;Louis;1864-10-5;français;anglais;;2B;Rue du cinema;Paris;France;Louislum@paradis.fr
+CURIE;Marie;1867-11-07;polonais;français;chimie;2A;Rue du polonium;Passy;France;curie@paradis.fr
+BEETHOVEN;Ludwig;1770-12-16;allemand;autrichien;;2B;Rue du piano;Berlin;Allemagne;beeth@paradis.fr
+ALLAN-POE;Edgar;1809-01-19;anglais;français;;2B;Rue du livre;Baltimore;USA;poe@paradis.fr
+EDISON;Thomas;1847-2-11;anglais;français;;2A;Rue de l'ampoule;West-orange;USA;edison@paradis.fr
